@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+
+.main{
+text-align: center;
+}
+
+/* .navigation-bar{
+}
+ */
+ 
+ul{
+  color: aqua;
+  list-style: none;
+  display: flex;
+}
+
+ul li {
+  display:inline-block
+}
+
+p{
+  color: white;
+}
+
