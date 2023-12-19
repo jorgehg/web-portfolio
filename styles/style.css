@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  line-height: 1.5;
+}
+
+body{
+  background-color: #2C3333;
+}
+
+.main{
+text-align: center;
+}
+
+.work-experience{
+  padding-top: 100px;
+  color: white;
+}
+ 
+ul{
+  color: #A5C9CA;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.presentation-card{
+  display: flex;
+  padding-top: 100px;
+  width: 70vw;
+  margin: auto;
+}
+
+ul li {
+  margin: 10px;
+}
+
+p{
+  color: #E7F6F2;
+}
+
+img{
+  padding-left: 20px;
+}
+
+h1{
+  padding-top: 50px;
+}
+
